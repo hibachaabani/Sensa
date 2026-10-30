@@ -68,6 +68,17 @@ Le guide d'utilisation complet (33 pages illustrées) est disponible dans
 | 4. Modération et back-office | Chedly Rebai | `moderation` |
 | 5. Fil, recherche et recommandations | Taieb Bel Hadj Ali | `feed` |
 
+## 👩‍💻 Ma contribution (Hiba Chaabani)
+
+Projet réalisé en équipe de 5. J'ai principalement développé le **module Publications** :
+
+- **Accessibilité des images par l'IA** : texte alternatif pour chaque image, suggestion automatique de description par l'IA, régénération par l'auteur et fiabilisation des descriptions générées
+- **Création de publications** : formulaire simplifié, ajout, retrait et réordonnancement des images avant publication, gestion des brouillons (enregistrement et suppression)
+- **Affichage dans le fil** : carrousel d'images accessible au clavier et aux lecteurs d'écran, mode plein écran, versions allégées des images et conservation de leurs proportions
+- **Republication** de publications avec un message, affichée sur le profil
+- **Tests** des modèles, de leurs contraintes et de leurs règles
+- Intégration continue de mon travail via des **pull requests** sur la branche principale de l'équipe
+
 ## Démarrage rapide
 
 Prérequis : **Python 3.10 ou plus récent**. Sous macOS, le `python3` fourni par le système est en
